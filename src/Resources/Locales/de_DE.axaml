@@ -576,6 +576,7 @@
   <x:String x:Key="Text.Repository.FilterCommits.Default" xml:space="preserve">Aufheben</x:String>
   <x:String x:Key="Text.Repository.FilterCommits.Exclude" xml:space="preserve">Im Graph ausblenden</x:String>
   <x:String x:Key="Text.Repository.FilterCommits.Include" xml:space="preserve">Im Graph filtern</x:String>
+  <x:String x:Key="Text.Repository.FirstParentFilterToggle" xml:space="preserve">Aktiviere '--first-parent' Option</x:String>
   <x:String x:Key="Text.Repository.HistoriesLayout" xml:space="preserve">LAYOUT</x:String>
   <x:String x:Key="Text.Repository.HistoriesLayout.Horizontal" xml:space="preserve">Horizontal</x:String>
   <x:String x:Key="Text.Repository.HistoriesLayout.Vertical" xml:space="preserve">Vertikal</x:String>
