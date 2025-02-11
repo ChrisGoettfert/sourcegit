@@ -22,7 +22,7 @@
   <x:String x:Key="Text.AddWorktree.Tracking" xml:space="preserve">Branch verfolgen:</x:String>
   <x:String x:Key="Text.AddWorktree.Tracking.Toggle" xml:space="preserve">Remote-Branch verfolgen</x:String>
   <x:String x:Key="Text.AIAssistant" xml:space="preserve">OpenAI Assistent</x:String>
-  <x:String x:Key="Text.AIAssistant.Regen" xml:space="preserve"><Neu generieren></x:String>
+  <x:String x:Key="Text.AIAssistant.Regen" xml:space="preserve">Neu generieren</x:String>
   <x:String x:Key="Text.AIAssistant.Tip" xml:space="preserve">Verwende OpenAI, um Commit-Nachrichten zu generieren</x:String>
   <x:String x:Key="Text.AIAssistant.Use" xml:space="preserve">Als Commit-Nachricht verwenden</x:String>
   <x:String x:Key="Text.Apply" xml:space="preserve">Patch</x:String>
